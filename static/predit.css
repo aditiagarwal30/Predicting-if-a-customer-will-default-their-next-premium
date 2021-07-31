@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: linear-gradient(#141e30, #243b55);
+}
+
+p {
+    font-size: 100px;
+    text-align: center;
+    margin-top: 250px;
+}
