@@ -73,8 +73,9 @@ body {
     text-transform: uppercase;
     overflow: hidden;
     transition: .5s;
-    letter-spacing: 4px;
+    letter-spacing: 2px;
     border: none;
+    padding: 5px;
 }
 
 .login-box form a {
