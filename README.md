@@ -1,6 +1,6 @@
 # Predicting-if-a-customer-will-default-their-next-premium
 
-### Project Link: https://premium-payment.herokuapp.com/
+### Project Link- https://premium-payment.herokuapp.com/
 
 ### Inspiration
 This project was given to me as a challenge to prove what I learnt after completing a course in Data Science.
